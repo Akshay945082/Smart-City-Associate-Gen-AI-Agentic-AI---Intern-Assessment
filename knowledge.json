@@ -1,0 +1,254 @@
+{
+    "knowledge_base": {
+        "city_services": [
+            {
+                "id": "CS001",
+                "title": "Building Permit Application Process",
+                "category": "permits",
+                "content": "To apply for a building permit in Metro City, you need to submit Form BP-101 along with architectural drawings, site plans, and structural calculations. The process takes 15-30 business days for review. Required documents include: property deed, contractor license, engineering reports (for structures over 2 stories), and environmental clearance certificate. Fees range from $500-$5000 based on project size. Applications can be submitted online through the city portal or in-person at City Hall, Room 205. For residential projects under 1000 sq ft, simplified fast-track process available (7-10 days).",
+                "contact": "Building Department: (555) 123-4567",
+                "office_hours": "Monday-Friday 8:00 AM - 5:00 PM",
+                "location": "City Hall, 123 Main Street, Room 205"
+            },
+            {
+                "id": "CS002",
+                "title": "Waste Collection Schedule",
+                "category": "waste_management",
+                "content": "Metro City waste collection operates on a zone-based system. Zone A (Downtown): Monday/Thursday pickup. Zone B (Northside): Tuesday/Friday pickup. Zone C (Southside): Wednesday/Saturday pickup. Zone D (Eastside): Monday/Thursday pickup. Zone E (Westside): Tuesday/Friday pickup. Recycling collected every other week on the same day as regular trash. Bulk items require special pickup scheduling - call 48 hours in advance. Hazardous waste disposal available first Saturday of each month at the Municipal Facility. Christmas trees collected first two weeks of January. Yard waste pickup April through November only.",
+                "contact": "Waste Management: (555) 234-5678",
+                "emergency_contact": "After hours: (555) 234-5679"
+            },
+            {
+                "id": "CS003",
+                "title": "Business License Requirements",
+                "category": "licensing",
+                "content": "All businesses operating in Metro City require a valid business license. Application process: 1) Complete Form BL-100, 2) Provide certificate of incorporation or DBA filing, 3) Submit zoning compliance letter, 4) Pay applicable fees. Annual license fee: $100 for home-based business, $250 for retail under 2000 sq ft, $500 for retail over 2000 sq ft, $750 for restaurants, $1000 for manufacturing. Additional permits may be required: food service permit, liquor license, signage permit. Processing time: 10-14 business days. Renewal required annually by December 31st. Late renewal penalty: $50 plus 5% monthly interest.",
+                "contact": "Business Licensing: (555) 345-6789",
+                "website": "www.metrocity.gov/business-licenses"
+            },
+            {
+                "id": "CS004",
+                "title": "Utility Services Setup",
+                "category": "utilities",
+                "content": "Metro City provides water, sewer, and electric services. New service connection requires: photo ID, proof of property ownership or lease agreement, previous utility bill (if applicable), deposit ($150 residential, $300 commercial). Service activation within 3-5 business days. Billing cycle: monthly, due 21 days from bill date. Payment options: online, phone, mail, auto-pay, in-person at City Hall. Late fee: $25 after 10 days past due. Disconnection notice sent 30 days past due. Reconnection fee: $50 during business hours, $100 after hours. Emergency utility issues: call 24/7 hotline.",
+                "contact": "Utility Services: (555) 456-7890",
+                "emergency": "24/7 Emergency: (555) 456-7899",
+                "payment_locations": "City Hall, First National Bank, Metro Grocery locations"
+            }
+        ],
+        "public_facilities": [
+            {
+                "id": "PF001",
+                "title": "Central Public Library",
+                "category": "libraries",
+                "content": "Metro City's main library offers books, digital resources, computer access, study rooms, and community programs. Collections include: 50,000+ books, 5,000+ DVDs, digital databases, local history archives. Services: free WiFi, printing/copying, fax services, notary public, tax preparation assistance (January-April), job search assistance, computer classes. Special programs: children's story time (Wednesdays 10 AM), teen book club (Fridays 4 PM), adult education classes, senior computer training. Meeting rooms available for reservation. Library card free with proof of address.",
+                "address": "456 Library Lane, Metro City",
+                "hours": "Monday-Thursday: 9 AM - 8 PM, Friday-Saturday: 9 AM - 5 PM, Sunday: 1 PM - 5 PM",
+                "phone": "(555) 567-8901",
+                "parking": "Free parking available, 2-hour limit during peak hours"
+            },
+            {
+                "id": "PF002",
+                "title": "Riverside Park",
+                "category": "parks",
+                "content": "50-acre park along Metro River featuring walking trails, playground, picnic areas, boat launch, and athletic facilities. Amenities include: 2-mile paved walking trail, children's playground (ages 2-12), 8 picnic pavilions (reservation required), basketball court, tennis courts (2 courts), boat launch and fishing pier, restrooms and water fountains. Pavilion rental: $50/day for residents, $75/day for non-residents. Park opens at sunrise, closes at sunset. No alcohol permitted. Dogs must be leashed. Swimming prohibited in river. Fishing license required for ages 16+.",
+                "address": "789 River Road, Metro City",
+                "phone": "(555) 678-9012",
+                "reservations": "Call 7 days in advance for pavilion rental"
+            },
+            {
+                "id": "PF003",
+                "title": "Metro General Hospital",
+                "category": "healthcare",
+                "content": "Full-service hospital providing emergency care, surgery, maternity, cardiology, and outpatient services. Emergency Department open 24/7. Services include: emergency care, surgery center, maternity ward, cardiology unit, radiology, laboratory, pharmacy, physical therapy. Visiting hours: 8 AM - 8 PM (may be restricted in ICU). Patient parking: $3/hour, $15/day maximum. Valet parking available. Financial assistance programs available for qualifying patients. Insurance accepted: most major plans, Medicare, Medicaid. Language interpreters available upon request.",
+                "address": "321 Hospital Drive, Metro City",
+                "phone": "(555) 789-0123",
+                "emergency": "911 or (555) 789-0124"
+            },
+            {
+                "id": "PF004",
+                "title": "Community Recreation Center",
+                "category": "recreation",
+                "content": "Multi-purpose facility offering fitness, sports, and community programs. Facilities include: gymnasium, weight room, cardio equipment, indoor track, multipurpose rooms, kitchen facilities. Programs: youth sports leagues, adult fitness classes, senior activities, after-school programs, summer camps. Membership fees: $30/month individual, $50/month family, $20/month seniors (65+), $15/month students. Day passes: $10. Classes additional fee. Pool passes available summers only. Birthday party packages available.",
+                "address": "654 Community Way, Metro City",
+                "hours": "Monday-Friday: 6 AM - 10 PM, Saturday-Sunday: 8 AM - 8 PM",
+                "phone": "(555) 890-1234"
+            }
+        ],
+        "transportation": [
+            {
+                "id": "TR001",
+                "title": "Metro Bus System Routes",
+                "category": "public_transit",
+                "content": "Metro City operates 8 bus routes serving all major areas. Route 1 (Red): Downtown to Northside, every 20 minutes, 6 AM - 10 PM. Route 2 (Blue): Airport to University, every 30 minutes, 5 AM - 11 PM. Route 3 (Green): Shopping Mall to Eastside, every 25 minutes, 6 AM - 9 PM. Route 4 (Yellow): Hospital to Westside, every 35 minutes, 6 AM - 8 PM. Route 5 (Orange): Express Downtown, every 15 minutes rush hour only. Fares: $2.50 single ride, $5 day pass, $20 weekly pass, $65 monthly pass. Seniors/students: 50% discount with valid ID. Free transfers within 2 hours.",
+                "contact": "Metro Transit: (555) 901-2345",
+                "website": "www.metrocity.gov/transit",
+                "mobile_app": "Metro Bus Tracker available on iOS/Android"
+            },
+            {
+                "id": "TR002",
+                "title": "Downtown Parking Information",
+                "category": "parking",
+                "content": "Downtown parking includes street meters, municipal lots, and private garages. Street parking: $2/hour, 2-hour maximum, enforced Monday-Saturday 8 AM - 6 PM. Municipal lots: Lot A (Main/1st): $5/day, Lot B (Oak/2nd): $3/day, Lot C (Elm/3rd): $4/day. Monthly permits available: $75/month residents, $125/month non-residents. Parking violations: $25 expired meter, $50 no permit zone, $75 handicap violation, $100 fire lane. Payment options: coin, credit card, mobile app 'ParkMetro'. Free parking evenings after 6 PM and Sundays.",
+                "enforcement": "Monday-Saturday 8 AM - 6 PM",
+                "contact": "Parking Authority: (555) 012-3456"
+            },
+            {
+                "id": "TR003",
+                "title": "Traffic and Road Conditions",
+                "category": "traffic",
+                "content": "Current road conditions and traffic alerts for Metro City. Major construction: Main Street bridge repair (6-month project, expect delays). School zones: Reduced speed limits 7:30-8:30 AM and 2:30-3:30 PM on school days. Traffic signals: Report outages to Public Works. Winter weather: City prioritizes main arterials, then residential streets. Real-time traffic updates available on city website and mobile app. Alternative routes during peak hours: Use River Road to bypass downtown, Oak Street for north-south travel. Accident reporting: Non-injury accidents can be reported online.",
+                "contact": "Public Works: (555) 123-4567",
+                "emergency": "911 for injury accidents",
+                "updates": "www.metrocity.gov/traffic or @MetroCityTraffic"
+            }
+        ],
+        "policies_procedures": [
+            {
+                "id": "PP001",
+                "title": "Noise Ordinance Regulations",
+                "category": "ordinances",
+                "content": "Metro City noise ordinance regulates sound levels to maintain quality of life. Quiet hours: 10 PM - 7 AM on weekdays, 11 PM - 8 AM on weekends. Maximum decibel levels: 55 dB residential areas (day), 45 dB residential (night), 65 dB commercial areas, 70 dB industrial areas. Prohibited activities during quiet hours: loud music, power tools, construction, landscaping equipment. Exceptions: emergency services, snow removal, permitted construction with variance. Violations: $100 first offense, $250 second offense, $500 subsequent offenses. Construction permits allow extended hours with neighbor notification.",
+                "contact": "Code Enforcement: (555) 234-5678",
+                "report_violations": "24/7 hotline: (555) 234-5679"
+            },
+            {
+                "id": "PP002",
+                "title": "Pet Registration and Leash Laws",
+                "category": "animal_control",
+                "content": "All dogs and cats in Metro City must be registered and vaccinated. Registration required within 30 days of acquiring pet or moving to city. Annual registration fee: $15 dogs, $10 cats, $5 seniors/disabled owners. Required vaccinations: rabies (dogs/cats), DHPP (dogs), FVRCP (cats). Leash law: Dogs must be leashed in public areas except designated off-leash zones at Riverside Park and Northside Dog Park. Maximum leash length: 6 feet. Pet waste must be cleaned up immediately. Violations: $75 unleashed dog, $50 waste cleanup, $100 unregistered pet. Pet limits: 3 dogs or cats per household without special permit.",
+                "contact": "Animal Control: (555) 345-6789",
+                "after_hours": "Emergency animal issues: (555) 345-6790"
+            },
+            {
+                "id": "PP003",
+                "title": "Property Maintenance Standards",
+                "category": "property_code",
+                "content": "Property owners must maintain premises according to city standards. Lawn maintenance: grass not to exceed 8 inches, weeds removed regularly. Snow removal: sidewalks cleared within 24 hours of snowfall ending. Exterior maintenance: paint in good condition, gutters functional, no broken windows. Fence requirements: maximum 6 feet rear/side yards, 4 feet front yard, permit required for fences over 6 feet. Violations subject to notice and correction period (typically 30 days). Non-compliance may result in city performing work and billing property owner plus administrative fees. Appeals process available through Zoning Board.",
+                "contact": "Code Enforcement: (555) 456-7890",
+                "online_reporting": "www.metrocity.gov/report-issue"
+            }
+        ],
+        "emergency_information": [
+            {
+                "id": "EM001",
+                "title": "Emergency Contact Numbers",
+                "category": "contacts",
+                "content": "Emergency Services Contact Information for Metro City. Police Emergency: 911. Police Non-Emergency: (555) 567-8901. Fire Emergency: 911. Fire Non-Emergency: (555) 567-8902. Medical Emergency: 911. Poison Control: 1-800-222-1222. Mental Health Crisis: (555) 567-8903. Domestic Violence Hotline: (555) 567-8904. City Emergency Management: (555) 567-8905. Power Outage: (555) 456-7899. Gas Leak: 911 or (555) 567-8906. Water Emergency: (555) 456-7899. Animal Control Emergency: (555) 345-6790. Highway Department Emergency: (555) 567-8907.",
+                "text_alerts": "Sign up for emergency alerts: text METRO to 67283",
+                "website": "www.metrocity.gov/emergency"
+            },
+            {
+                "id": "EM002",
+                "title": "Severe Weather Procedures",
+                "category": "weather_emergency",
+                "content": "Metro City severe weather response procedures. Tornado Warning: Seek shelter immediately in lowest floor of sturdy building, avoid windows, listen to weather radio. Severe Thunderstorm: Stay indoors, avoid electrical appliances, do not use corded phones. Flash Flood Warning: Never drive through flooded roads, move to higher ground. Winter Storm: Stay home if possible, keep emergency kit ready, avoid unnecessary travel. Emergency shelters: Community Center (654 Community Way), High School Gymnasium (987 School Road), Central Library (456 Library Lane). Weather alerts broadcast on local radio stations and city website. Sign up for text alerts for immediate notifications.",
+                "weather_radio": "NOAA Weather Radio 162.475 MHz",
+                "emergency_kit": "Keep 3 days of food, water, medications, flashlight, battery radio"
+            },
+            {
+                "id": "EM003",
+                "title": "Evacuation Routes and Procedures",
+                "category": "evacuation",
+                "content": "Metro City evacuation procedures for large-scale emergencies. Primary evacuation routes: Route 1 North to County Road 45, Route 9 South to Interstate 78, Route 15 East to State Highway 23, Route 22 West to County Road 67. Assembly points: North: Fairgrounds (1234 Fair Road), South: Shopping Center (5678 Mall Drive), East: Industrial Park (9876 Factory Lane), West: Regional Airport (2468 Airport Road). Transportation assistance available for residents without vehicles - call emergency management. Pet evacuation: Pets allowed at evacuation centers, bring carriers and supplies. Special needs residents: Register with emergency management for priority assistance. Emergency broadcasts on radio stations 101.5 FM and 1450 AM.",
+                "registration": "Special needs registry: (555) 567-8905"
+            }
+        ],
+        "test_queries": [
+            {
+                "query": "How do I apply for a building permit?",
+                "expected_info": [
+                    "Form BP-101",
+                    "architectural drawings",
+                    "15-30 business days",
+                    "City Hall Room 205",
+                    "fees $500-$5000"
+                ]
+            },
+            {
+                "query": "What are the library hours?",
+                "expected_info": [
+                    "Monday-Thursday 9 AM - 8 PM",
+                    "Friday-Saturday 9 AM - 5 PM",
+                    "Sunday 1 PM - 5 PM",
+                    "456 Library Lane"
+                ]
+            },
+            {
+                "query": "When is garbage pickup in Zone A?",
+                "expected_info": [
+                    "Monday/Thursday pickup",
+                    "Downtown area",
+                    "Zone A",
+                    "recycling every other week"
+                ]
+            },
+            {
+                "query": "How much does a business license cost?",
+                "expected_info": [
+                    "$100 home-based",
+                    "$250 retail under 2000 sq ft",
+                    "$500 retail over 2000 sq ft",
+                    "$750 restaurants"
+                ]
+            },
+            {
+                "query": "What's the bus fare?",
+                "expected_info": [
+                    "$2.50 single ride",
+                    "$5 day pass",
+                    "$20 weekly pass",
+                    "$65 monthly pass",
+                    "seniors/students 50% discount"
+                ]
+            },
+            {
+                "query": "Where can I park downtown?",
+                "expected_info": [
+                    "street parking $2/hour",
+                    "Lot A $5/day",
+                    "Lot B $3/day",
+                    "Lot C $4/day",
+                    "free evenings after 6 PM"
+                ]
+            },
+            {
+                "query": "What are the noise ordinance rules?",
+                "expected_info": [
+                    "quiet hours 10 PM - 7 AM weekdays",
+                    "11 PM - 8 AM weekends",
+                    "55 dB residential day",
+                    "violations $100 first offense"
+                ]
+            },
+            {
+                "query": "How do I register my dog?",
+                "expected_info": [
+                    "$15 annual fee",
+                    "within 30 days",
+                    "rabies vaccination required",
+                    "leash law 6 feet maximum"
+                ]
+            },
+            {
+                "query": "What should I do in a tornado warning?",
+                "expected_info": [
+                    "seek shelter immediately",
+                    "lowest floor",
+                    "avoid windows",
+                    "weather radio",
+                    "emergency shelters available"
+                ]
+            },
+            {
+                "query": "Who do I call for a power outage?",
+                "expected_info": [
+                    "(555) 456-7899",
+                    "Utility Services",
+                    "24/7 Emergency hotline",
+                    "non-emergency utility issues"
+                ]
+            }
+        ]
+    }
+}
