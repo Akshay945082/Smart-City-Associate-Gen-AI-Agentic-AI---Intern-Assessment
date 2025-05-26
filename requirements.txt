@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+langchain-ollama
+langchain-community
+langchain-core
+pydantic
+python-dotenv
+faiss-cpu
+jq
